@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <style>
+body {
+  background-image: url("");
+  background-color:lightblue;
+}
+.p1{
+ border-style: dashed;
+ border-width: 5px;
+ border-color: red,yellow;
+}
+</style>
+</head>
+<body>
+<p class="p1">
+    Elon Musk cofounded six companies, including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.
+    He owns about 23% of Tesla between stock and options, and has pledged some of his shares as collateral for loans.
+    SpaceX, founded in 2002, is worth $127 billion after a funding round in May 2022; it quadrupled its value in three years.
+    Boring Company, which aims to defeat traffic, raised $675 million in April 2022 at a $5.7 billion valuation.
+    Twitter's board agreed to sell the company to Musk for $44 billion in April 2022, after he disclosed a 9.1% stake and threatened a hostile takeover.
+    The deal closed in October 2022 after Musk tried to back out and Twitter.</text>
+    https://www.google.com/
+</p>
+</body>
+</html>
